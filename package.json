@@ -1,0 +1,26 @@
+{
+  "name": "compresscss",
+  "version": "1.0.0",
+  "description": "compression CSS Wordpress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Erwan Tanguy",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "bootstrap-sass": "^3.3.7",
+    "jquery": "^3.2.1",
+    "jquery-fancybox": "^3.1.0"
+  },
+  "devDependencies": {
+    "browserify": "~13.1.1",
+    "gulp": "~3.9.1",
+    "gulp-autoprefixer": "~3.1.1",
+    "gulp-sass": "~3.0.0",
+    "gulp-uglify": "~2.0.0",
+    "vinyl-buffer": "~1.0.0",
+    "vinyl-source-stream": "~1.1.0"
+  }
+}

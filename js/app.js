@@ -1,0 +1,1 @@
+//jQuery('img').parent('a').addClass('fancybox').addClass('image');
