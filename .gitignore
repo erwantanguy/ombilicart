@@ -1,0 +1,9 @@
+*.log
+node_modules/
+
+/.htaccess
+/license.txt
+/readme.html
+/sitemap.xml
+/sitemap.xml.gz
+/.netbeans.xml
