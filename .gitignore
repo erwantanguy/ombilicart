@@ -1,5 +1,6 @@
 *.log
 node_modules/
+nbproject/
 
 /.htaccess
 /license.txt
